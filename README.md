@@ -48,6 +48,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Typescript](https://www.typescriptlang.org/)
 - [Zod](https://zod.dev/)
 - [React Hook Form](https://react-hook-form.com/)
+- [Styled Components](https://styled-components.com/)
+- [Immer](https://github.com/immerjs/immer)
 
   
 ### 👨🏾‍💻 Autor
